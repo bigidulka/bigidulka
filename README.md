@@ -23,9 +23,9 @@
 
 <h2>About me</h2>
 <p>
-  У меня мало публичных проектов, но я активно веду частные разработки.
-  Специализируюсь на высокопроизводительной микроархитектуре и утилитах,
-  которые ускоряют рабочие процессы.
+  I keep most work private, so public projects are limited.
+  I specialize in high-performance micro-architecture and tools
+  that accelerate real-world workflows.
 </p>
 
 <h2>Languages</h2>
