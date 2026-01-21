@@ -31,20 +31,31 @@
 <h2>Languages</h2>
 <p>
   <img src="https://img.shields.io/badge/Python-0B1F3A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-1D3557?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-0B3B5B?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-0B1F3A?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0B3B5B?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-1D3557?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-1F2937?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-0B3B5B?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1D3557?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <h2>Frameworks & Tools</h2>
 <p>
   <img src="https://img.shields.io/badge/FastAPI-0B3B5B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-0B1F3A?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0B3B5B?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AIOHTTP-1F2937?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-0B1F3A?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-1D3557?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aiogram-0B3B5B?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telebot-1F2937?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-0B1F3A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-1D3557?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-0B3B5B?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-1F2937?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-0B1F3A?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-1D3557?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-1F2937?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 <h2>Profile metrics</h2>
