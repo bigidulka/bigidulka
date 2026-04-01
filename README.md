@@ -15,8 +15,3 @@ cross-platform desktop app for managing ai coding agent accounts and usage quota
 **stack:** python · go · typescript · dart  
 **focus:** automation, trading infrastructure, telegram bots, linux tooling  
 **os:** arch btw
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bigidulka&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&hide_title=true&hide_rank=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigidulka&layout=compact&langs_count=6&count_private=true&theme=transparent&hide_border=true&hide_title=true" height="150" />
-</p>
