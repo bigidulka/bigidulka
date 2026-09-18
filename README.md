@@ -17,6 +17,11 @@ service: invoices and hosted checkout, merchant API and Python SDK, signed webho
 retries, deposit-address leases, chain confirmations, sweeping, and an append-only ledger that
 the runtime database role cannot alter.
 
+**[balance-tracker](https://github.com/bigidulka/balance-tracker)** — multi-tenant crypto
+portfolio tracker: exchange balances via CCXT and on-chain wallets, integrity checks before
+any write, a refresh pipeline with caching and circuit breakers, REST API plus a Telegram bot
+with plan limits. 280 tests run offline.
+
 **[tg-radar](https://github.com/bigidulka/tg-radar)** — index of public Telegram channels:
 keyword and graph discovery, `t.me/s` crawling, PostgreSQL state, Vespa hybrid retrieval
 (BM25 + HNSW) with a PostgreSQL full-text fallback, FastAPI surface for agents.
