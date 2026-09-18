@@ -1,17 +1,34 @@
-### hey, i'm bogdan
+# Python backend / AI engineer
 
-i build tools that save time — trading systems, telegram bots, automation scripts, and whatever else gets the job done faster.
+I build backend services, AI pipelines and internal tools: FastAPI and PostgreSQL on the
+service side, LLM agents where they earn their place, Docker Compose for everything that has to
+run somewhere.
 
-most of my work is private, but here's what's public:
+**Core stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · Docker · LLM APIs · integrations · pytest
 
-#### → [gdictate](https://github.com/bigidulka/gdictate) — free voice dictation for linux
-streaming speech-to-text via google speech api. no api keys, no cost. press a hotkey, speak, text appears.
+## Selected work
 
-#### → [quounter](https://github.com/bigidulka/quounter) — ai account & quota manager
-cross-platform desktop app for managing ai coding agent accounts and usage quotas.
+**[mtbank-ai-call-analytics](https://github.com/bigidulka/mtbank-ai-call-analytics)** — call
+analytics service: local ASR and diarization, four bounded LLM agents, deterministic scoring
+and grounding, OpenWebUI Pipeline plus REST, 577 offline tests.
 
----
+**[crypto-payment-gateway](https://github.com/bigidulka/crypto-payment-gateway)** — payment
+service: invoices and hosted checkout, merchant API and Python SDK, signed webhooks with
+retries, deposit-address leases, chain confirmations, sweeping, and an append-only ledger that
+the runtime database role cannot alter.
 
-**stack:** python · go · typescript · dart  
-**focus:** automation, trading infrastructure, telegram bots, linux tooling  
-**os:** arch btw
+**[tg-radar](https://github.com/bigidulka/tg-radar)** — index of public Telegram channels:
+keyword and graph discovery, `t.me/s` crawling, PostgreSQL state, Vespa hybrid retrieval
+(BM25 + HNSW) with a PostgreSQL full-text fallback, FastAPI surface for agents.
+
+**[rag-tender-sql](https://github.com/bigidulka/rag-tender-sql)** — a RAG service that runs
+without API keys (local embeddings, extractive answers with citations) next to a PostgreSQL
+tender-platform schema where integrity rules and analytical SQL live in the database.
+
+## What I care about
+
+- Fail-closed contracts: a model response that does not match its schema should break the run,
+  not silently degrade it.
+- Deterministic checks around probabilistic parts: scores, money and permissions are computed
+  by code, not by an LLM.
+- Reproducible local runs: each project above starts or demos without my credentials.
